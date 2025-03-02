@@ -14,7 +14,4 @@
 ## ✍️ Favorite Quote
 💡 _“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”_ — **Dale Carnegie**
 
----
-[![](https://visitcount.itsvg.in/api?id=KhoaHo1207&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
