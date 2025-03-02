@@ -13,7 +13,7 @@
 
 ## 🚀 Deployed Projects
 Here are some of my deployed projects:
-- 🌎 [Evogym]([https://your-project1-link.com](https://8e793dee.evogym-ds7.pages.dev/))
+- 🌎 [Evogym](https://8e793dee.evogym-ds7.pages.dev)
 
 ## ✍️ Favorite Quote
 💡 _“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”_ — **Dale Carnegie**
