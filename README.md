@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am currently a final-year student at FPT University
+<h1>Hi 👋, I'm Ho Doan Minh Khoa</h1>
+<p>A passionate frontend developer from Viet Nam</p>
 
 
 ## 🌐 Socials:
