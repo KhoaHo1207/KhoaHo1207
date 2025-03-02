@@ -1,6 +1,9 @@
 <h1>Hi 👋, I'm Ho Doan Minh Khoa</h1>
-<p>A passionate frontend developer from Viet Nam</p>
+<h4>A passionate frontend developer from Viet Nam</h4>
 
+🌱 I’m currently learning **Software Engineering**  
+👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/KhoaHo1207?tab=repositories)  
+📫 How to reach me: **khoaho120703@gmail.com** 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khoa.ho.520357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khoaho120703@gmail.com) 
