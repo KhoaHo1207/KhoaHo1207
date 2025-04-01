@@ -14,7 +14,8 @@
 ## 🚀 Deployed Projects
 Here are some of my deployed projects:
 - 🌎 [Evogym](https://8e793dee.evogym-ds7.pages.dev)
-
+- 🌎 [NexusVR](https://nexus-vr.netlify.app/)
+- 
 ## ✍️ Favorite Quote
 💡 _“Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.”_ — **Dale Carnegie**
 
